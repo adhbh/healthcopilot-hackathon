@@ -1,0 +1,3 @@
+livekit-agents[turn-detector,silero,bey,openai]>=1.2
+python-dotenv ~= 1.0
+aiohttp ~= 3.9
