@@ -363,12 +363,6 @@ function VideoConferenceComponent(props: {
           <div style={{
             background: '#fff', borderRadius: 16, boxShadow: '0 2px 8px 0 rgba(0,0,0,0.03)', padding: 24, flex: 1, minWidth: 180
           }}>
-            <div style={{ color: '#888', fontSize: 15, marginBottom: 8 }}>Participants</div>
-            <div style={{ fontWeight: 700, fontSize: 28, color: '#222' }}>{room.numParticipants}</div>
-          </div>
-          <div style={{
-            background: '#fff', borderRadius: 16, boxShadow: '0 2px 8px 0 rgba(0,0,0,0.03)', padding: 24, flex: 1, minWidth: 180
-          }}>
             <div style={{ color: '#888', fontSize: 15, marginBottom: 8 }}>Connection</div>
             <div style={{ fontWeight: 700, fontSize: 18, color: '#22c55e' }}>Connected</div>
           </div>

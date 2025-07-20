@@ -65,3 +65,8 @@ h2 a {
 h2 a {
   text-decoration: none;
 }
+
+/* Global style for LiveKit control bar */
+.lk-control-bar {
+  display: none;
+}
